@@ -1,2 +1,3 @@
 # GitideaTest
 在Idea上测试Git的使用
+在HbuilderX测试Git插件的使用
